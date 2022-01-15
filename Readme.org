@@ -1,3 +1,3 @@
-#+TITLE: Readme
+#+TITLE: De Morgan's Laws
 
-De Morgan's laws with constructive logic in Rust. This is a joke crate, please don't use.
+Proved with constructive logic in Rust. This is a joke crate, please don't use.
