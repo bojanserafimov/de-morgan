@@ -1,0 +1,3 @@
+#+TITLE: Readme
+
+De Morgan's laws with constructive logic in Rust. This is a joke crate, please don't use.
